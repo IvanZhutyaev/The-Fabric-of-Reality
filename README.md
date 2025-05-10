@@ -76,7 +76,7 @@ Source/
 ### **Setup**  
 1. Clone with Git LFS:  
    ```bash  
-   git clone https://github.com/your-studio/the-fabric-of-reality.git  
+   git clone https://github.com/IvanZhutyaev/The-Fabric-of-Reality.git 
    ```  
 2. Enable plugins:  
    - Niagara  
